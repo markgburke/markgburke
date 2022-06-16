@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markgburke
 - 👀 I’m interested in Python, Unreal 5, C++
 - 🌱 I’m currently learning Python
-- 📫 How to reach me mark.g.burke@gmail.com
+- 📫 Reach me at: mark.g.burke@gmail.com
 
 <!---
 markgburke/markgburke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
